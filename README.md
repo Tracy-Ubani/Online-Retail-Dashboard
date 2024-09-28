@@ -14,7 +14,7 @@ The primary goal is to analyze online retail sales data effectively and provide 
 
     * **Data Import and Transformation:** Utilized Power BI's Power Query to import the dataset, clean, and transform the data, such as splitting columns like invoice date and time for better analysis.
       
-    * **Calculations and Enhancements:** Created a new column to calculate the total transaction amount by multiplying quantity and unit price. Added relevant measures like the customer lifetime value and aggregated metrics like total revenue, profit, and order count.
+    * **Calculations and Enhancements:** Created a new column to calculate the total transaction amount by multiplying the quantity and unit price. Added relevant measures like the customer lifetime value and aggregated metrics like total revenue, profit, and order count.
       
     * **Data Model:** Organized the dataset into fact and dimension tables (customer, product, invoice) to optimize analysis. Introduced a date table to enable time-based calculations.
 
@@ -53,6 +53,13 @@ The primary goal is to analyze online retail sales data effectively and provide 
     * Maps to display geographic sales distribution.
 
     * Conditional Formatting: Applied conditional formatting to highlight important trends, outliers, and KPIs that deviate from the norm (e.g., peak sales days, product performance).
+  
+**Tools Used**
+
+Excel: For data cleaning
+SQL: Running queries and answering business questions.
+Power Query: For data cleaning and transformation.
+Power BI: For data visualization and building interactive dashboard elements.
 
 # Conclusion
 
