@@ -68,16 +68,15 @@ The interactive online retail dashboard in Power BI provides valuable insights i
 # Insights from Dashboard Charts
 
 * Customer Analysis: Identify top customers based on total spending, order frequency, and country for targeted marketing campaigns.
-Revenue Trends Over Time: Analyze daily, weekly, and monthly sales trends to identify seasonal patterns and sales spikes.
 
-* Sales by Weekday: Determine peak sales days to optimize staffing, marketing, and operational strategies.
+* Revenue Trends Over Time: Analyze weekly and monthly sales trends to identify seasonal patterns and spikes.
+
+* Sales by Month: Determine peak sales Month to optimize staffing, marketing, and operational strategies.
   
 * Product Performance: Understand which products drive the most revenue and which underperform to enhance inventory and pricing strategies.
 
 * Country-Level Sales: Evaluate sales performance by country to tailor marketing and expansion strategies to top-performing regions.
 
-* Monthly and Quarterly Performance: Track sales against targets for informed decision-making on a monthly and quarterly basis.
+* Monthly and Quarterly Performance: Track sales against targets for informed decision-making monthly and quarterly.
 
-* Weekend vs Weekday Revenue: Compare revenue across weekends and weekdays to inform operational hours and marketing efforts.
 
-  
