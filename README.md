@@ -2,10 +2,10 @@
 1. [Introduction](#Introduction)
 2. [Objectives](#Objectives)
 3. [Process Overview](#Process-Overview)
-   * [Data Preparation]
-   * [Building the Data Model]
-   * [Calculating Key Metrics]
-   * [Dashboard Design]
+   * Data Preparation
+   * Building the Data Model
+   * Calculating Key Metrics
+   * Dashboard Design
 5. [Tools Used](#Tools-Used)
 6. [Conclusion](#Conclusion)
 7. [Insights from Dashboard Charts](#Insights-from-Dashboard-Charts)
