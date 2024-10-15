@@ -2,9 +2,13 @@
 1. [Introduction](#Introduction)
 2. [Objectives](#Objectives)
 3. [Process Overview](#Process-Overview)
-4. [Tools Used](#Tools-Used)
-5. [Conclusion](#Conclusion)
-6. [Insights from Dashboard Charts](#Insights-from-Dashboard-Charts)
+   * [Data Preparation](#Data-Preparation)
+   * [Building the Data Model](#Building-the-Data-Model)
+   * [Calculating Key Metrics](#Calculating-Key-Metrics)
+   * [Dashboard Design](#Dashboard-Design)
+5. [Tools Used](#Tools-Used)
+6. [Conclusion](#Conclusion)
+7. [Insights from Dashboard Charts](#Insights-from-Dashboard-Charts)
 
 
 # Introduction
@@ -19,13 +23,13 @@ The primary goal is to analyze online retail sales data effectively and provide 
 
 1. **Data Preparation:**
 
-    * **Data Import and Transformation:** Utilized Power BI's Power Query to import the dataset, clean, and transform the data, such as splitting columns like invoice date and time for better analysis.
+    * Data Import and Transformation: Utilized Power BI's Power Query to import the dataset, clean, and transform the data, such as splitting columns like invoice date and time for better analysis.
       
-    * **Calculations and Enhancements:** Created a new column to calculate the total transaction amount by multiplying the quantity and unit price. Added relevant measures like the customer lifetime value and aggregated metrics like total revenue, profit, and order count.
+    * Calculations and Enhancements: Created a new column to calculate the total transaction amount by multiplying the quantity and unit price. Added relevant measures like the customer lifetime value and aggregated metrics like total revenue, profit, and order count.
       
-    * **Data Model:** Organized the dataset into fact and dimension tables (customer, product, invoice) to optimize analysis. Introduced a date table to enable time-based calculations.
+    * Data Model: Organized the dataset into fact and dimension tables (customer, product, invoice) to optimize analysis. Introduced a date table to enable time-based calculations.
 
-2. Building the Data Model:
+2. **Building the Data Model:**
 
     * Create Relationships: Establish relationships between columns (e.g., Orders, Products, Customers ID).
       
@@ -33,7 +37,7 @@ The primary goal is to analyze online retail sales data effectively and provide 
       
     * Create Hierarchies: Create hierarchies for dimensions like Date, Product Category, and Customer Geography.
 
-3. Calculating Key Metrics:
+3. **Calculating Key Metrics:**
 
     * DAX Calculations: Used Data Analysis Expressions (DAX) to compute key performance indicators (KPIs) such as:
       
@@ -47,7 +51,7 @@ The primary goal is to analyze online retail sales data effectively and provide 
           
         * Customer Segmentation: Categorized customers by spending levels or geographic location (country).
 
-3. Dashboard Design:
+3. **Dashboard Design:**
 
     * Interactive Elements: Added slicers for time (year, quarter, month), product categories, and customer location to allow dynamic filtering and exploration of the data.
 
@@ -61,11 +65,14 @@ The primary goal is to analyze online retail sales data effectively and provide 
 
     * Conditional Formatting: Applied conditional formatting to highlight important trends, outliers, and KPIs that deviate from the norm (e.g., peak sales days, product performance).
   
-**Tools Used**
+# Tools Used
 
 Excel: For data cleaning
+
 SQL: Running queries and answering business questions.
+
 Power Query: For data cleaning and transformation.
+
 Power BI: For data visualization and building interactive dashboard elements.
 
 # Conclusion
