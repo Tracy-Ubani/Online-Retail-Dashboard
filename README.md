@@ -1,10 +1,10 @@
 # Online-Retail-Dashboard
-1. (Introduction)[#Introduction]
-2. Objectives
-3. Process Overview
-4. Tools Used
-5. Conclusion
-6. Insights from Dashboard Charts
+1. [Introduction](#Introduction)
+2. [Objectives](#Objectives)
+3. [Process Overview](#Process-Overview)
+4. [Tools Used](#Tools-Used)
+5. [Conclusion](#Conclusion)
+6. [Insights from Dashboard Charts](#Insights-from-Dashboard-Charts)
 
 
 # Introduction
