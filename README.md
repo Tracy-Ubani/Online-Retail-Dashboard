@@ -1,7 +1,7 @@
 # Online-Retail-Dashboard
 1. [Introduction](#Introduction)
 2. [Objectives](#Objectives)
-3. [Process Overview](1.-Process-Overview)
+3. [Process Overview](1.-**Data-Preparation:**)
    * [Data Preparation](Data-Preparation)
    * [Building the Data Model](Building-the-Data-Model)
    * [Calculating Key Metrics](Calculating-Key-Metrics)
