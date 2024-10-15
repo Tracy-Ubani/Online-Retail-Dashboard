@@ -1,4 +1,11 @@
 # Online-Retail-Dashboard
+1. Introduction
+2. Objectives
+3. Process Overview
+4. Tools Used
+5. Conclusion
+6. Insights from Dashboard Charts
+
 
 # Introduction
 
